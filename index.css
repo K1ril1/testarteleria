@@ -1,0 +1,178 @@
+body {
+	background-color: rgb(34, 35, 41);
+	color: white;
+	
+	font-size: 16px;
+    font-weight: normal;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+}
+
+.TheFallenEmpire {
+	padding: 10px;
+	border: none;
+	border-radius: 50px;
+	width: 1000px;
+	margin: 10px;
+	
+}
+
+.img1 {
+	width: 300px;
+	border-radius: 50px;
+}
+.navbar {
+    width: 100%;
+    height: 70px;
+}
+
+.navbar .container {
+    height: inherit;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbartext {
+	font-weight: 700px;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+}
+
+.navbar-logoimg {
+	height: 75px;
+	border-radius: 20px;
+}
+
+.menu {
+    display: flex;
+}
+
+.menu li{
+    width: 100px;
+    list-style: none;
+    position: relative;
+	right: 100px;
+} 
+
+.menu a{
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    padding: 0 10px;
+    height: 40px;
+    line-height: 40px;
+    transition:  all .5s;
+    color: white;
+}
+
+.menu a:hover{
+    color: grey;
+}
+
+
+.hr1 {
+	width: 55%;
+}
+
+.skachatmodi {
+	color: white;
+	text-decoration: none;
+	background-color: rgb(48, 48, 48);
+	padding: 10px;
+	border: none;
+	border-radius: 20px;
+	transition: all .5s;
+}
+
+.instrukcia {
+	color: white;
+	text-decoration: none;
+	background-color: rgb(48, 48, 48);
+	padding: 10px;
+	border: none;
+	border-radius: 20px;
+	transition: all .5s;
+}
+
+.skachatmodi:hover{
+    background: black;
+}
+
+.instrukcia:hover{
+    background: black;
+}
+	
+.hr2 {
+	width: 126%;
+}
+
+.img2 {
+	width: 400px;
+	border-radius: 50px;
+}
+
+.hr3 {
+	width: 126%;
+}
+
+.img3 {
+	width: 400px;
+	border-radius: 50px;
+}
+
+.galereya {
+	color: white;
+	text-decoration: none;
+	background-color: rgb(48, 48, 48);
+	padding: 10px;
+	border: none;
+	border-radius: 20px;
+	transition: all .5s;
+}
+.galereya:hover{
+    background: black;
+}
+
+.hr4 {
+	width: 126%;
+}
+
+.hr5 {
+	width: 126%;
+}
+
+.K1ril1 {
+	height: 200px;
+	width: 185px;
+}
+
+.Turbotonchik {
+	height: 200px;
+	width: 185px;
+}
+
+.sozdatelsaita2 {
+	height: 200px;
+	width: 185px;
+}
+
+.seppo {
+	height: 200px;
+	width: 185px;
+}
+
+.KonstantinZah {
+	height: 200px;
+	width: 185px;
+}
+
+.lowariks {
+	height: 200px;
+	width: 185px;
+}
